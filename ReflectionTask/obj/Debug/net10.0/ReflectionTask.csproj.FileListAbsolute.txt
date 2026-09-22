@@ -1,0 +1,15 @@
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.AssemblyInfoInputs.cache
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.AssemblyInfo.cs
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.csproj.CoreCompileInputs.cache
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.sourcelink.json
+/home/hp/Learning-Reflection/ReflectionTask/bin/Debug/net10.0/ReflectionTask
+/home/hp/Learning-Reflection/ReflectionTask/bin/Debug/net10.0/ReflectionTask.deps.json
+/home/hp/Learning-Reflection/ReflectionTask/bin/Debug/net10.0/ReflectionTask.runtimeconfig.json
+/home/hp/Learning-Reflection/ReflectionTask/bin/Debug/net10.0/ReflectionTask.dll
+/home/hp/Learning-Reflection/ReflectionTask/bin/Debug/net10.0/ReflectionTask.pdb
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.dll
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/refint/ReflectionTask.dll
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.pdb
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ReflectionTask.genruntimeconfig.cache
+/home/hp/Learning-Reflection/ReflectionTask/obj/Debug/net10.0/ref/ReflectionTask.dll

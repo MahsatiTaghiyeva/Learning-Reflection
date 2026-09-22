@@ -1,0 +1,26 @@
+[
+  {
+    "Type": 0,
+    "Amount": 500,
+    "Currency": 0,
+    "FromAccountId": 0,
+    "ToAccountId": 1,
+    "Date": "2026-09-22T15:50:59.2161484+04:00"
+  },
+  {
+    "Type": 1,
+    "Amount": 100,
+    "Currency": 0,
+    "FromAccountId": 1,
+    "ToAccountId": 0,
+    "Date": "2026-09-22T15:50:59.2161542+04:00"
+  },
+  {
+    "Type": 2,
+    "Amount": 200,
+    "Currency": 0,
+    "FromAccountId": 1,
+    "ToAccountId": 3,
+    "Date": "2026-09-22T15:50:59.216155+04:00"
+  }
+]
